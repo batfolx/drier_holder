@@ -21,6 +21,6 @@ The pristine engineering materials I used for this project were
   <li><a href="https://www.amazon.com/Smraza-Helicopter-Airplane-Control-Arduino/dp/B07L2SF3R4/ref=sr_1_6?dchild=1&keywords=Arduino+Servo+Motor&qid=1613327440&sr=8-6"
       >1 Small Servo</a></li>
   <li><a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/ref=sr_1_3?dchild=1&keywords=arduino+uno&qid=1613327506&sr=8-3"/>Arduino Uno</a></li>
-  <li><a hrf="https://www.amazon.com/Solder-Wired-Rocker-Switch-Toggle/dp/B07FTXKKZ4/ref=sr_1_4?dchild=1&keywords=arduino+switch&qid=1613327562&sr=8-4"/>Small switch</a></li>
+  <li><a href="https://www.amazon.com/Solder-Wired-Rocker-Switch-Toggle/dp/B07FTXKKZ4/ref=sr_1_4?dchild=1&keywords=arduino+switch&qid=1613327562&sr=8-4"/>Small switch</a></li>
 
 </ul
