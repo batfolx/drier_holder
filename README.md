@@ -8,10 +8,10 @@ I had this annoying issue of the drier door closing on my head while I was takin
 <img src="the_problem.gif" alt="the_problem.gif"/>
 
 
-<p>After weeks of engineering, planning, and funding, I managed to come up with the below solution</p>
+<p>After decades of engineering, planning, design, and funding, I managed to come up with the below solution</p>
 <img src="the_solution.gif" alt="the_solution.gif"/>
 
-The pristine engineering materials I used for this project were
+The cutting-edge engineering materials I used for this project were
 <ul>
   <li>Tape</li>
   <li>Rubber Bands</li>
